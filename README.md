@@ -13,12 +13,12 @@
 
 ## Languages
 
-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![x86--64_Assembly](https://img.shields.io/badge/x86--64_Assembly-525252)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![x86--64_Assembly](https://img.shields.io/badge/x86--64_Assembly-525252)
 
 ## Featured Projects
 
