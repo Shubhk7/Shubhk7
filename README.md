@@ -7,8 +7,9 @@
 - 📚 Learning System Programming, Android Development, and Cybersecurity
 - 🚀 Exploring C, C++, Java, Kotlin, Python, and x86-64 Assembly
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhk7&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhk7&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhk7&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhk7&layout=compact&theme=dark)
 
 ## Languages
 
